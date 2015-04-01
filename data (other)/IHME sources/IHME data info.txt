@@ -1,0 +1,10 @@
+http://ghdx.healthdata.org/record/global-smoking-prevalence-and-cigarette-consumption-1980-2012
+
+Contributors 
+Institute for Health Metrics and Evaluation (IHME)
+Publisher 
+Institute for Health Metrics and Evaluation (IHME)
+Publication year 
+2014
+Suggested citation 
+Institute for Health Metrics and Evaluation (IHME). Global Smoking Prevalence and Cigarette Consumption 1980-2012. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2014.
